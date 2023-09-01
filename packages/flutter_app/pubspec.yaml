@@ -38,7 +38,7 @@ dependencies:
   hooks_riverpod: ^2.3.6
   image_picker: ^0.8.5
   intl: ^0.18.1
-  json_annotation: ^4.8.0
+  json_annotation: ^4.8.1
   linked_scroll_controller: ^0.2.0
   modal_bottom_sheet: ^2.1.2
   package_info_plus: ^3.0.2
